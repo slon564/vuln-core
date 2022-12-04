@@ -1,8 +1,9 @@
 [![Gradle](https://img.shields.io/badge/gradle-7.3.3-steelblue?logo=gradle)](https://gradle.org/)
 [![Kotlin](https://img.shields.io/badge/kotlin-1.6.10-mediumpurple.svg?logo=kotlin)](http://kotlinlang.org)
 [![Kotlin Wrappers](https://img.shields.io/badge/kotlin--wrappers-v0.0.1--pre.290--kotlin--1.6.10-orange.svg)](https://mvnrepository.com/artifact/org.jetbrains.kotlin-wrappers/kotlin-wrappers-bom)
-# KMP starter project
-A hello-world full-stack application for Kotlin multiplatform.
+# Vuln-core 
+
+Small Kotlin web-application built to show common vulnerabilities
 
 
 ## Run configurations
